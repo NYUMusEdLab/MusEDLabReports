@@ -21,7 +21,7 @@ happening in front of your eyes.
 * Insert all of your text to appropriate places (places to insert text and structure the
 document in the template are documented with comments. Replace comments accordingly)
 * Put all of your photos in folder with the name "[img][3]"
-* Change the path in "css[4]" folder for the header image
+* Change the path in "[css][4]" folder for the header image
 
 
   [1]: https://github.com/NYUMusEdLab/MusEDLabReports/tree/gh-pages/reports/template
