@@ -1,14 +1,14 @@
-# Peer 2 Peer University Lab Reports
+# NYU Music Experience Design Lab Reports
 
 ## Intro
 This series of documents are the way to share experiments, collaborations and best practice
-with the community. When work we do together at/or with Peer 2 Peer University needs to be
+with the community. When work we do together at/or with MusEDLab needs to be
 showcased and reported, this is the right place to put them in.
 
 ## Usage
 1. If you don't have git installed go ahead and install it.
 Reference: https://help.github.com/articles/set-up-git.
-2. Clone this repository: "git@github.com:p2pu/reports.git"
+2. Clone this repository: "git@github.com:NYUMusEdLab/MusEDLabReports.git"
 Reference: https://help.github.com/articles/fork-a-repo.
 3. Once you have a copy of a reports folder on your computer, you can go ahead and make a
 new report. The way to do it is to copy a folder called "[template][1]", rename
@@ -24,7 +24,7 @@ document in the template are documented with comments. Replace comments accordin
 * Change the path in "css[4]" folder for the header image
 
 
-  [1]: https://github.com/p2pu/reports/tree/gh-pages/reports/template
-  [2]: https://github.com/p2pu/reports/tree/gh-pages/reports/template/index.html
-  [3]: https://github.com/p2pu/reports/tree/gh-pages/reports/template/img
-  [3]: https://github.com/p2pu/reports/tree/gh-pages/reports/template/css/styles.css
+  [1]: https://github.com/NYUMusEdLab/MusEDLabReports/tree/gh-pages/reports/template
+  [2]: https://github.com/NYUMusEdLab/MusEDLabReports/tree/gh-pages/reports/template/index.html
+  [3]: https://github.com/NYUMusEdLab/MusEDLabReports/tree/gh-pages/reports/template/img
+  [3]: https://github.com/NYUMusEdLab/MusEDLabReports/tree/gh-pages/reports/template/css/styles.css
