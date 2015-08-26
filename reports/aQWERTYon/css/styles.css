@@ -28,3 +28,12 @@
     background: #d50000;
 }
 
+.row-centered {
+    text-align:center;
+}
+
+.center {
+    float:none;
+    margin-left: auto;
+    margin-right: auto;
+}
